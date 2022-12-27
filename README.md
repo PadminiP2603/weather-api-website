@@ -1,1 +1,2 @@
-# weather-api-website
+# Weather API Project
+ Project 2
